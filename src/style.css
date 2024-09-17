@@ -1,1 +1,7 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+#loco {
+  margin: 0 auto;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 100px;
+}
